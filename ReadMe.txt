@@ -39,6 +39,8 @@ and linux Distros such as Ubuntu and Rasbian. I await the day I can make p h a t
 
 //Method:
 
+REQUIRED SOFTWARE: Reaper v6.10 or later
+
 1: Load up one of the projects 
  - pick the one that you think your computer can handle. You can always add more tracks later.
 
